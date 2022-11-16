@@ -80,7 +80,9 @@ namespace EsercizioDizionari_anagrafica
 
             switch (value) {
                 case 1 :
-                    foreach (var item in dict[CF][Dipartimento.ASL]) { 
+                    //int i = 0;
+                    foreach (var item in dict[CF][Dipartimento.ASL]) {
+                        
                         Console.WriteLine(item);
                     }
                     break;
