@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsercizioDizionari_anagrafica", "EsercizioDizionari_anagrafica.csproj", "{EBEB4E80-B622-4D19-AF92-D2F2C3B2E42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEB4E80-B622-4D19-AF92-D2F2C3B2E42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEB4E80-B622-4D19-AF92-D2F2C3B2E42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEB4E80-B622-4D19-AF92-D2F2C3B2E42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEB4E80-B622-4D19-AF92-D2F2C3B2E42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B61D9C4-5432-4216-AAF9-5AE89B51B157}
+	EndGlobalSection
+EndGlobal
